@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+  body {
+        background-color: bisque;
+    }
+    h1 {
+        color: burlywood;
+    }
+    h2 {
+        color: rgb(212, 199, 181);
+    }
+    p {
+        text-align: justify;
+        font-size: larger;
+    }
+    button {
+        display: -ms-flexbox;
+        background-color: rgb(212, 181, 170);
+    }
